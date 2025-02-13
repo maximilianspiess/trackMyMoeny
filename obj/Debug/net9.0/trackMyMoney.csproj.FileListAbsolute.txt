@@ -1,0 +1,17 @@
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/trackMyMoney
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/trackMyMoney.deps.json
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/trackMyMoney.runtimeconfig.json
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/trackMyMoney.dll
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/trackMyMoney.pdb
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.GeneratedMSBuildEditorConfig.editorconfig
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.AssemblyInfoInputs.cache
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.AssemblyInfo.cs
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.csproj.CoreCompileInputs.cache
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.dll
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/refint/trackMyMoney.dll
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.pdb
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.genruntimeconfig.cache
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/ref/trackMyMoney.dll
+/home/maximilianspiess/RiderProjects/trackMyMoney/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyMoney.csproj.AssemblyReference.cache
+/home/maximilianspiess/RiderProjects/trackMyMoney/obj/Debug/net9.0/trackMyM.0B325F2F.Up2Date
